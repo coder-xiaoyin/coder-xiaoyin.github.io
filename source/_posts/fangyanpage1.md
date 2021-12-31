@@ -8,4 +8,4 @@ tags: 大连
 <video id="video" controls="" preload="none" poster="fm">
 <source id="mp4" src="/img/yanhua.mp4" type="video/mp4">
 </videos>
-![avatar](/img/2ji.jpg)
+![](/img/2ji.jpg)
