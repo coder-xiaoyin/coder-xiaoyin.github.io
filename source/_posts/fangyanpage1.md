@@ -5,7 +5,11 @@ tags: 大连
 ---
 # 来看看常用的大连话吧！
 视频中介绍了常用语言的大连话说法！
-<video id="video" controls="" preload="none" poster="fm">
-<source id="mp4" src="img\yanhua.mp4" type="video/mp4">
-</videos>
-![](img\2ji.jpg)
+![dc](img\2ji.jpg)
+
+
+<video controls="conrols" preload="none" 
+src=img\yanhua.mp4
+type="video/mp4">
+</video>
+
